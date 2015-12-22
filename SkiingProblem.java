@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.sapient.mytesting.corejava;
+package com.sachin.puzzles.corejava;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
