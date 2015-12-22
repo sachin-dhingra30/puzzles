@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.sachin.puzzles.corejava;
+package com.sachin.puzzles;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -146,7 +146,7 @@ public class SkiingProblem {
 		// Read file and create 2D array
 		try {
 
-			br = new BufferedReader(new FileReader("src/test/resources/input.txt"));
+			br = new BufferedReader(new FileReader("src/test/resources/skiingInput.txt"));
 			currentLine = br.readLine();
 			numOfProbs = Integer.parseInt(currentLine);
 			currentLine = br.readLine();
