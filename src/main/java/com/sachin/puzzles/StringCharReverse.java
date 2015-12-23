@@ -7,9 +7,9 @@ package com.sachin.puzzles;
  * @author Sachin Dhingra
  *
  */
-public class StringReverse {
+public class StringCharReverse {
 
-	// Reverse words in a sentence
+	// Reverse characters of words in a sentence
 	public String reverse(String str) {
 		String output = "";
 		int pre = 0;
@@ -36,7 +36,7 @@ public class StringReverse {
 	}
 	
 	public static void main(String[] args) {
-		StringReverse str = new StringReverse();
+		StringCharReverse str = new StringCharReverse();
 		System.out.println(str.reverse("Hello world"));
 	}
 
