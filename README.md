@@ -30,4 +30,6 @@ Ram seeks your help to know the longest run possible with the given peaks. That 
   Input: I like dark knight
   
   Output: knight dark like I
+
+- Find square root a num without using square root function
   
